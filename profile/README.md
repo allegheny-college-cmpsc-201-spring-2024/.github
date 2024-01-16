@@ -1,6 +1,6 @@
-![CMPSC 201: Programming Languages origami fish in various states of structural unmaking](https://github.com/allegheny-college-cmpsc-201-spring-2024/course-materials/assets/1552764/7eef390d-327d-4af6-94ed-e7cc41c97df8)
-
 # CMPSC 201: Programming Languages
+
+![CMPSC 201: Programming Languages origami fish in various states of structural unmaking](https://github.com/allegheny-college-cmpsc-201-spring-2024/course-materials/assets/1552764/7eef390d-327d-4af6-94ed-e7cc41c97df8)
 
 ## Canonical course description
 
